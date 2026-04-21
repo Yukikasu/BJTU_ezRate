@@ -1,4 +1,4 @@
-# 🎓 知行乐评 (ZhiXing LePing)
+# 🎓 知行乐评
 
 ![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Required-success.svg)
